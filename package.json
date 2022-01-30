@@ -1,0 +1,23 @@
+{
+  "name": "retail-store-2022-mfes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanwinder/retail-store-2022-mfes.git"
+  },
+  "keywords": [
+    "react",
+    "MFE"
+  ],
+  "author": "Tanwinder Sidhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tanwinder/retail-store-2022-mfes/issues"
+  },
+  "homepage": "https://github.com/Tanwinder/retail-store-2022-mfes#readme"
+}
